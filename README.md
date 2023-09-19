@@ -25,14 +25,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<div>
     <a href="https://www.loom.com/share/fc247c27d3264019b06c6e4b011c9b7e">
      
     </a>
     <a href="https://www.loom.com/share/fc247c27d3264019b06c6e4b011c9b7e">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/fc247c27d3264019b06c6e4b011c9b7e-with-play.gif">
     </a>
-  </div>
+
 
 
 ## Notes
