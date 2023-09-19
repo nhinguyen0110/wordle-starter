@@ -29,10 +29,7 @@ The following **additional** features are implemented:
     
 <div>
 <a href="https://www.loom.com/share/0805ff584ad24c98975786045fad2eac">
-      <p>Library | Loom - 18 September 2023 - Watch Video</p>
-</a>
-<a href="https://www.loom.com/share/0805ff584ad24c98975786045fad2eac">
-<img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0805ff584ad24c98975786045fad2eac-with-play.gif">
+<img style="max-width:300px;" src="https://cdn.loom.com/share/0805ff584ad24c98975786045fad2eac-with-play.gif">
 </a>
 </div>
 
