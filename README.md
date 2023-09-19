@@ -27,10 +27,10 @@ The following **additional** features are implemented:
 
 
     
-    </a>
+</a>
     <a href="https://www.loom.com/share/3dc64f80650c4ffda9695cdae79306c4">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3dc64f80650c4ffda9695cdae79306c4-with-play.gif">
-    </a>
+</a>
 
 
 
