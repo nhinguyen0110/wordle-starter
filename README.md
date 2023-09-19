@@ -33,11 +33,14 @@ The following **additional** features are implemented:
 </a>
 
 
-
-
 ## Notes
 
 Describe any challenges encountered while building the app.
+* Understanding UIKit: UIKit is a powerful framework for building iOS apps, but it was complex, and there was a learning curve associated with it. Understanding how to work with views, view controllers, and navigation was challenging for me as a beginner.
+
+* Auto Layout and UI Design: Creating a user interface that looked good on various iOS devices and orientations was challenging. Auto Layout was a powerful tool but was daunting to learn.
+
+* Swift Language Learning: Learning Swift, Apple's programming language for iOS development, was challenging, especially since I was new to it. Understanding concepts like optionals, closures, and value vs. reference types took time.
 
 ## License
 
