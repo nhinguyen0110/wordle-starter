@@ -1,5 +1,3 @@
-# ios101-project2-wordle-starter
-
 # Project 2 - *Wordle*
 
 Submitted by: **Nhi Nguyen**
@@ -29,10 +27,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/83eea66ebe8e4bd8b5c700731fb8cec1">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/83eea66ebe8e4bd8b5c700731fb8cec1-with-play.gif">
-    </a>
-  </div>
+</a>
+<a href="https://www.loom.com/share/83eea66ebe8e4bd8b5c700731fb8cec1">
+<img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/83eea66ebe8e4bd8b5c700731fb8cec1-with-play.gif">
+</a>
+</div>
   
 ## Notes
 
